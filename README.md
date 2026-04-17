@@ -1,16 +1,17 @@
-## Hi there 👋
+<p>
+  <a href="https://git.io/typing-svg" target="_blank">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=F7F7F7&multiline=true&width=450&height=120&lines=%24+whoami;Andreas+Gunther" alt="Title GitHub Readme" />
+</p>
 
-<!--
-**R-Nhan/R-Nhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐉 Languages and Tools
 
-Here are some ideas to get you started:
+<img height="40" src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,figma,mysql"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Contact me
+
+<div>
+  <a href="(https://www.instagram.com/rubens_ian2/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
+
+<br>
+
